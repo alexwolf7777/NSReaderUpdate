@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSReaderUpdate", "NSReaderUpdate\NSReaderUpdate.csproj", "{74368CE1-8248-43AC-8117-EAFDF3DCF6F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74368CE1-8248-43AC-8117-EAFDF3DCF6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74368CE1-8248-43AC-8117-EAFDF3DCF6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74368CE1-8248-43AC-8117-EAFDF3DCF6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74368CE1-8248-43AC-8117-EAFDF3DCF6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {720232A8-7575-442A-BB8C-7D6BE45A92A0}
+	EndGlobalSection
+EndGlobal
